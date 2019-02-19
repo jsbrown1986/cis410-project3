@@ -3,4 +3,4 @@
 
 Author: Jacob Brown
 
-Description: TK
+Description: From the data file, produces three images: one applying a blue hot color map, one applying a difference color map, and one applying an HSV color map.
